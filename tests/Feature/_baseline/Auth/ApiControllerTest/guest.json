@@ -1,0 +1,16 @@
+{
+    "status_code": 401,
+    "headers": {
+        "cache-control": [
+            "no-cache, private"
+        ],
+        "date": "date_ignore",
+        "content-type": [
+            "application\/json"
+        ],
+        "set-cookie": "set-cookie_ignore"
+    },
+    "content": {
+        "message": "Unauthenticated."
+    }
+}
