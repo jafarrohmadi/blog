@@ -8,7 +8,7 @@ $(function () {
             var str='';
             for (var i = 1; i < 41; i++) {
                 str+='<img src="http://'+window.location.host+'/statics/emote/tuzki/'+i+'.gif" title="'+alt[i-1]+'" alt="'+titleName+'">';
-            };
+            }
             tuzkiObj.html(str);
             tuzkiNumber=0;
         }else{
